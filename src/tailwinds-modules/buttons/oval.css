@@ -1,0 +1,4 @@
+/* standard button */
+.btn-oval {
+    @apply  py-2 px-4 rounded-full transform border-2;
+  }
